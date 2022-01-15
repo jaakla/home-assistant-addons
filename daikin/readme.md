@@ -14,3 +14,5 @@ This is Home Assistant addon wrapper for https://github.com/SmartHomeIntegration
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+
+![screen sample homeassistant](https://github.com/jaakla/blob/main/daikin/image.jpg?raw=true)
