@@ -2,7 +2,7 @@ name: "Daikin MQTT connector"
 description: "Allows to discover a Daikin Adapter BRP069A62 in the network and read and write its endpoints"
 version: "1.0.11"
 slug: "daikin-mqtt"
-url: "https://github.com/jaakla/home-assistant-addons/daikin"
+url: "https://github.com/jaakla/home-assistant-addons/tree/main/daikin"
 arch:
   - aarch64
   - amd64
