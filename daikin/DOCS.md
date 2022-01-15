@@ -6,19 +6,19 @@ This is Home Assistant addon wrapper for https://github.com/SmartHomeIntegration
 
 1. Create internal configuration file pollingsettings.json (see below)
 2. Copy the file to config/daikin folder
-3. Tnstall and start the add-on.
-4. Configure sensors and switches in your HA `configuration.yaml` to get/set data via MQTT topic. Sorry, there is no autoconfiguration as the MQTTServices-Daikin writes data in homie format (whatever it is), not HomeAssistant one. See my sample below.
+3. Install and start the add-on.
+4. Configure sensors and switch(es) in your HA `configuration.yaml` to get/set data via MQTT topic. Sorry, there is no autoconfiguration as the MQTTServices-Daikin writes data in homie format (whatever it is), not HomeAssistant one. See my sample below.
 5. Configure your dashboards, automations and actions with the sensors.
 
 
 ## Creation of PollingSettings.json
 
-See instructions at https://github.com/SmartHomeIntegrationTech/MQTTServices-Daikin . 
+See instructions at https://github.com/SmartHomeIntegrationTech/MQTTServices-Daikin
 
 In short:
 
 1. download daikin-0.0.4.jar to **your own computer**
-2. start with `java -jar daikin-0.0.4.jar` 
+2. start GUI with `java -jar daikin-0.0.4.jar` 
 3. configure Daikin address, MQTT address and inputs and outputs.
 4. save data to PollingSettings.json file
 
