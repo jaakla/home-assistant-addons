@@ -15,4 +15,4 @@ This is Home Assistant addon wrapper for https://github.com/SmartHomeIntegration
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
-![screen sample homeassistant](https://github.com/jaakla/blob/main/daikin/image.jpg?raw=true)
+![screen sample homeassistant](https://raw.githubusercontent.com/jaakla/home-assistant-addons/8f00e02b917c1b17177509f87d24815f958ae039/daikin/daikin-mqtt-homeassistant-dash.png)
