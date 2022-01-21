@@ -10,6 +10,7 @@ This is Home Assistant addon wrapper for https://github.com/SmartHomeIntegration
 4. Configure sensors and switch(es) in your HA `configuration.yaml` to get/set data via MQTT topic. Sorry, there is no autoconfiguration as the MQTTServices-Daikin writes data in homie format (whatever it is), not HomeAssistant one. See my sample below.
 5. Configure your dashboards, automations and actions with the sensors.
 
+Some hints with Nordpool price following: https://www.itk-ib.ee/kuidas-ise-valmistada-borsihinda-jalgiv-kontroller/
 
 ## Creation of PollingSettings.json
 
