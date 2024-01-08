@@ -13,7 +13,7 @@ RUN \
     openjdk11 \
     \
     && curl -J -L -o /tmp/daikin.jar \
-      "https://github.com/SmartHomeIntegrationTech/MQTTServices-Daikin/releases/download/v0.0.4/daikin-0.0.4.jar" \
+      "https://github.com/SmartHomeIntegrationTech/MQTTServices-Daikin/releases/download/v0.0.5/daikin-0.0.5.jar" \
     \
    && mkdir -p /opt/daikin \
    && cp /tmp/daikin.jar /opt/daikin 
